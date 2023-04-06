@@ -1,6 +1,6 @@
 # FDash on pyDash
 
-Implementation of [FDash](https://ieeexplore.ieee.org/document/736809) in python, tested and simulated on [pyDash](https://github.com/mfcaetano/pydash).
+Implementation of [FDash](https://ieeexplore.ieee.org/document/736809) in python [r2a_fdash.py](r2a/r2a_fdash.py), tested and simulated on [pyDash](https://github.com/mfcaetano/pydash).
 
 # pyDash: A Framework Based Educational Tool for Adaptive Streaming Video Algorithms Study
 
